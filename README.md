@@ -32,10 +32,8 @@ cloud-engineering-journey/
 ├── README.md                   
 ├── 01-aws-account-setup/
 │   ├── README.md
-│   └── screenshots/
 └── 02-next-project/
     ├── README.md
-    └── screenshots/
 ```
 
 ---
