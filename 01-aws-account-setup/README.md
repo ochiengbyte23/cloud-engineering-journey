@@ -17,6 +17,7 @@ Setting up an AWS account is the first step in any cloud engineering journey. Th
 - The signup process took about 10 minutes, but account approval took a few days
 - AWS asks for credit card details during signup — this is just to verify you're a real person, not to charge you
 - Once approved, I got access to the AWS Management Console
+<img width="1844" height="808" alt="image" src="https://github.com/user-attachments/assets/6a57faf6-4720-49d3-9131-0a4a1a264a5a" />
 
 ### 2. Explored the AWS Free Tier
 The Free Tier includes three types of offers:
