@@ -13,7 +13,8 @@ Welcome to my cloud engineering learning journal. I'm documenting every project 
 | # | Project | Cloud | Status |
 |---|---------|-------|--------|
 | 01 | [AWS Account Setup](./01-aws-account-setup/) | AWS | ✅ Complete |
-| 02 | [Coming soon...](.) | — | 🔜 Upcoming |
+| 02 | [AWS Website Hosting](./02-aws-host-a-website-on-s3/) | AWS | ✅ Complete |
+| 03 | [Coming soon...](.) | — | 🔜 Upcoming |
 
 ---
 
@@ -25,7 +26,7 @@ Welcome to my cloud engineering learning journal. I'm documenting every project 
 
 ## 📌 How This Repo Is Organized
 
-Each folder is one project with its own README and screenshots:
+Each folder is one project with its own README which includes screenshots:
 
 ```
 cloud-engineering-journey/
