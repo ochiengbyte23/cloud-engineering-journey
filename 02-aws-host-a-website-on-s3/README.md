@@ -110,8 +110,6 @@ In this step, I will make my website publicly accessible because this enables me
 
 To resolve this 403 Forbidden error, I made my object files public using ACL which controls object access
 
-![Image](http://learn.nextwork.org/loving_rose_daring_rose_apple/uploads/aws-host-a-website-on-s3_5d4474f9)
-
 ---
 
 ## Bucket Policies
