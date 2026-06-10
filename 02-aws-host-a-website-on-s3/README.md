@@ -7,11 +7,6 @@
 **Author:** Bildad Masaga  
 **Email:** bijasoto@gmail.com
 
----
-
-![Image](http://learn.nextwork.org/loving_rose_daring_rose_apple/uploads/aws-host-a-website-on-s3_5d4474f9)
-
----
 
 ## Introducing Today's Project!
 
