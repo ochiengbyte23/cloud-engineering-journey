@@ -23,6 +23,7 @@ Welcome to my cloud engineering learning journal. I'm documenting every project 
 | 09 | [VPC Peering](./09-VPC-peering/) | AWS | ✅ Complete |
 | 10 | [VPC Monitoring with Flow Logs](./10-VPC-monitoring-with-flow-logs/) | AWS | ✅ Complete |
 | 11 | [Access S3 from a VPC](./11-access-S3-from-a-VPC/) | AWS | ✅ Complete |
+| 12 | [VPC Endpoints](./12-VPC-endpoints/) | AWS | ✅ Complete |
 |  | [Coming soon...](.) | — | 🔜 Upcoming |
 
 ---
