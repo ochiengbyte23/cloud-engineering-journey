@@ -17,6 +17,7 @@ Welcome to my cloud engineering learning journal. I'm documenting every project 
 | 03 | [AWS Cloud Security with IAM](./03-aws-cloud-security-with-IAM/) | AWS | ✅ Complete |
 | 04 | [Build a Virtual Private Cloud](./04-build-a-virtual-private-cloud/) | AWS | ✅ Complete |
 | 05 | [VPC Traffic Flow and Security](./05-vpc-traffic-flow-and-security/) | AWS | ✅ Complete |
+| 06 | [Creating a Private Subnet](./06-creating-a-private-subnet/) | AWS | ✅ Complete |
 |  | [Coming soon...](.) | — | 🔜 Upcoming |
 
 ---
