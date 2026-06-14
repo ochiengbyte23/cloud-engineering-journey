@@ -26,6 +26,7 @@ Welcome to my cloud engineering learning journal. I'm documenting every project 
 | 12 | [VPC Endpoints](./12-VPC-endpoints/) | AWS | ✅ Complete |
 | 13 | [Aurora Database with EC2](./13-aurora-database-with-EC2/) | AWS | ✅ Complete |
 | 14 | [Connect a Web App with Aurora](./14-connect-a-Web-app-with-aurora/) | AWS | ✅ Complete |
+| 15 | [Load Data into DynamoDB](./15-load-data-into-DynamoDB)
 |  | [Coming soon...](.) | — | 🔜 Upcoming |
 
 ---
