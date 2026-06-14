@@ -18,6 +18,7 @@ Welcome to my cloud engineering learning journal. I'm documenting every project 
 | 04 | [Build a Virtual Private Cloud](./04-build-a-virtual-private-cloud/) | AWS | ✅ Complete |
 | 05 | [VPC Traffic Flow and Security](./05-vpc-traffic-flow-and-security/) | AWS | ✅ Complete |
 | 06 | [Creating a Private Subnet](./06-creating-a-private-subnet/) | AWS | ✅ Complete |
+| 07 | [Launching VPC Resources](./07-launching-VPC-resources/) | AWS | ✅ Complete |
 |  | [Coming soon...](.) | — | 🔜 Upcoming |
 
 ---
