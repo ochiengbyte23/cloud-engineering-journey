@@ -27,6 +27,7 @@ Welcome to my cloud engineering learning journal. I'm documenting every project 
 | 13 | [Aurora Database with EC2](./13-aurora-database-with-EC2/) | AWS | ✅ Complete |
 | 14 | [Connect a Web App with Aurora](./14-connect-a-Web-app-with-aurora/) | AWS | ✅ Complete |
 | 15 | [Load Data into DynamoDB](./15-load-data-into-DynamoDB/) | AWS | ✅ Complete |
+| 16 | [Query Data with DynamoDB](./16-query-data-with-DynamoDB/) | AWS | ✅ Complete |
 |  | [Coming soon...](.) | — | 🔜 Upcoming |
 
 ---
