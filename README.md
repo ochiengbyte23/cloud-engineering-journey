@@ -47,4 +47,4 @@ cloud-engineering-journey/
 
 ## 🙋 About Me
 
-I'm Bildad, a cloud engineer
+I'm Bildad, an aspiring cloud engineer
