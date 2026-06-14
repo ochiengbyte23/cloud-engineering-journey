@@ -21,6 +21,7 @@ Welcome to my cloud engineering learning journal. I'm documenting every project 
 | 07 | [Launching VPC Resources](./07-launching-VPC-resources/) | AWS | ✅ Complete |
 | 08 | [Testing VPC Connectivity](./08-testing-VPC-connectivity/) | AWS | ✅ Complete |
 | 09 | [VPC Peering](./09-VPC-peering/) | AWS | ✅ Complete |
+| 10 | [VPC Monitoring with Flow Logs](./10-VPC-monitoring-with-flow-logs/) | AWS | ✅ Complete |
 |  | [Coming soon...](.) | — | 🔜 Upcoming |
 
 ---
