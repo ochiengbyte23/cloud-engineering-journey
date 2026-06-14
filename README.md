@@ -16,7 +16,8 @@ Welcome to my cloud engineering learning journal. I'm documenting every project 
 | 02 | [AWS Website Hosting](./02-aws-host-a-website-on-s3/) | AWS | ✅ Complete |
 | 03 | [AWS Cloud Security with IAM](./03-aws-cloud-security-with-IAM/) | AWS | ✅ Complete |
 | 04 | [Build a Virtual Private Cloud](./04-build-a-virtual-private-cloud/) | AWS | ✅ Complete |
-| 04 | [Coming soon...](.) | — | 🔜 Upcoming |
+| 05 | [VPC Traffic Flow and Security](./05-vpc-traffic-flow-and-security) | AWS | ✅ Complete |
+|  | [Coming soon...](.) | — | 🔜 Upcoming |
 
 ---
 
