@@ -20,7 +20,7 @@ Services I used were Amazon S3. Key concepts I learnt include bucket policies, s
 
 ### Time, challenges, and wins
 
-This project took me approximately 1/5 hours including quize, demo and secret misssion.The most challenging part was resolving the 403 forbidden error. It was most rewarding to be able to publicly access my website.
+This project took me approximately 1/5 hours including quiz, demo and secret mission. The most challenging part was resolving the 403 forbidden error. It was most rewarding to be able to publicly access my website.
 
 ---
 
@@ -32,7 +32,7 @@ In this step, I will open Amazon S3 and create a storage space to store files
 
 ### How long it took to create the bucket
 
-Creating an S3 bucket took me took me about 6 munites .I was also learning a lot of new stuff in the process so i reckon in future i will be able to do it in 2 minutes
+Creating an S3 bucket took me took me about 6 minutes .I was also learning a lot of new stuff in the process so i reckon in future i will be able to do it in 2 minutes
 
 ### Region selection
 
@@ -40,7 +40,7 @@ The Region I picked for my S3 bucket was the default US East (N. Virginia) us-ea
 
 ### Understanding bucket name uniqueness
 
-S3 bucket names are globally unique! This means my name cannot be used by anyone else world wide unless i dete my bucket
+S3 bucket names are globally unique! This means my name cannot be used by anyone else world wide unless i delete my bucket
 
 ![Image](http://learn.nextwork.org/loving_rose_daring_rose_apple/uploads/aws-host-a-website-on-s3_ba6d42ad)
 
@@ -50,7 +50,7 @@ S3 bucket names are globally unique! This means my name cannot be used by anyone
 
 ### What I did in this step
 
-In this step, I will upload the HTML and zip image files to my S3 bucket because they are the ingradients for static website hosting
+In this step, I will upload the HTML and zip image files to my S3 bucket because they are the ingredients for static website hosting
 
 ### Files I uploaded
 
@@ -126,7 +126,7 @@ An alternative to ACLs are bucket policies, which are JSON based policies attach
 
 ### What my bucket policy does
 
-My bucket policy prevents anyone from deleting any object in my bucket. I tested this by trying to delete my index.html file and saw an error that prevented me from compeleting the deletion
+My bucket policy prevents anyone from deleting any object in my bucket. I tested this by trying to delete my index.html file and saw an error that prevented me from completing the deletion
 
 ---
 
