@@ -15,6 +15,7 @@ Welcome to my cloud engineering learning journal. I'm documenting every project 
 | 01 | [AWS Account Setup](./01-aws-account-setup/) | AWS | ✅ Complete |
 | 02 | [AWS Website Hosting](./02-aws-host-a-website-on-s3/) | AWS | ✅ Complete |
 | 03 | [AWS Cloud Security with IAM](./03-aws-cloud-security-with-IAM/) | AWS | ✅ Complete |
+| 04 | [Build a Virtual Private Cloud](./04-build-a-virtual-private-cloud/) | AWS | ✅ Complete |
 | 04 | [Coming soon...](.) | — | 🔜 Upcoming |
 
 ---
