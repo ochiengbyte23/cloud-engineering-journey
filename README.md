@@ -19,6 +19,7 @@ Welcome to my cloud engineering learning journal. I'm documenting every project 
 | 05 | [VPC Traffic Flow and Security](./05-vpc-traffic-flow-and-security/) | AWS | ✅ Complete |
 | 06 | [Creating a Private Subnet](./06-creating-a-private-subnet/) | AWS | ✅ Complete |
 | 07 | [Launching VPC Resources](./07-launching-VPC-resources/) | AWS | ✅ Complete |
+| 08 | [Testing VPC Connectivity](./08-testing-VPC-connectivity/) | AWS | ✅ Complete |
 |  | [Coming soon...](.) | — | 🔜 Upcoming |
 
 ---
