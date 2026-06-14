@@ -22,6 +22,7 @@ Welcome to my cloud engineering learning journal. I'm documenting every project 
 | 08 | [Testing VPC Connectivity](./08-testing-VPC-connectivity/) | AWS | ✅ Complete |
 | 09 | [VPC Peering](./09-VPC-peering/) | AWS | ✅ Complete |
 | 10 | [VPC Monitoring with Flow Logs](./10-VPC-monitoring-with-flow-logs/) | AWS | ✅ Complete |
+| 11 | [Access S3 from a VPC](./11-access-S3-from-a-VPC/) | AWS | ✅ Complete |
 |  | [Coming soon...](.) | — | 🔜 Upcoming |
 
 ---
