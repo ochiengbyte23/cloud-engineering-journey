@@ -20,6 +20,7 @@ Welcome to my cloud engineering learning journal. I'm documenting every project 
 | 06 | [Creating a Private Subnet](./06-creating-a-private-subnet/) | AWS | ✅ Complete |
 | 07 | [Launching VPC Resources](./07-launching-VPC-resources/) | AWS | ✅ Complete |
 | 08 | [Testing VPC Connectivity](./08-testing-VPC-connectivity/) | AWS | ✅ Complete |
+| 09 | [VPC Peering](./09-VPC-peering/) | AWS | ✅ Complete |
 |  | [Coming soon...](.) | — | 🔜 Upcoming |
 
 ---
