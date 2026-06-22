@@ -31,7 +31,7 @@ Welcome to my cloud engineering learning journal. I'm documenting every project 
 | 17 | [Encrypt Data with AWS KMS](./17-encrypt-data-with-AWS-KMS/) | AWS | ✅ Complete |
 | 18 | [Threat Detection with GuardDuty](./18-threat-detection-with-GuardDuty/) | AWS | ✅ Complete |
 | 19 | [Secure Secrets with Secrets Manager](./19-secure-secrets-with-secrets-manager/) |AWS | ✅ Complete |
-| 20 | [] |AWS |🔜 Upcoming |
+| 20 | [Build a Security Monitoring System] |AWS |🔜 Upcoming |
 
 ---
 
