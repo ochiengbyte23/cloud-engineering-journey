@@ -58,7 +58,7 @@ I uploaded two files to my S3 bucket - they were the HTML and zip files. The HTM
 
 ### How the files work together
 
-Both files are necessary for this project as the index.html does only provides the sturucture of yhe website. In order to complete it , the zip files provides the required assets like images which makes the website structure functional.
+Both files are necessary for this project as the index.html does only provides the sturucture of the website. In order to complete it , the zip files provides the required assets like images which makes the website structure functional.
 
 ![Image](http://learn.nextwork.org/loving_rose_daring_rose_apple/uploads/aws-host-a-website-on-s3_a265af88)
 
@@ -68,7 +68,7 @@ Both files are necessary for this project as the index.html does only provides t
 
 ### What I did in this step
 
-In this step, I will make my website publicly available through static website hosting because withou it my files will just stay as files
+In this step, I will make my website publicly available through static website hosting because without it my files will just stay as files
 
 ### Understanding website hosting
 
@@ -120,7 +120,7 @@ In this project extension I'm about to setup a bucket policy which controll acce
 
 ### Understanding bucket policies
 
-An alternative to ACLs are bucket policies, which are JSON based policies attached to the S3 buckets. The benefit of using bucket policies is it controls who access the bucket and its objects and what actions the can do while ACLs are useful for object level access control
+An alternative to ACLs are bucket policies, which are JSON based policies attached to the S3 buckets. The benefit of using bucket policies is it controls who access the bucket and its objects and what actions they can do while ACLs are useful for object level access control
 
 ![Image](http://learn.nextwork.org/loving_rose_daring_rose_apple/uploads/aws-host-a-website-on-s3_sm2sm2sm)
 
