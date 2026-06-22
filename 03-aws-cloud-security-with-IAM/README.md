@@ -21,11 +21,11 @@ In this project, I will demonstrate how to implement IAM services to control acc
 
 ### Tools and concepts
 
-Services I used were Amazon EC2 and AWS IAM. Key concepts I learnt include IAM users, policies, user groups and account aliases. I also leant how to use  a policy simulator, how to launch an instance, how to tag an instance and how to login as another user.
+Services I used were Amazon EC2 and AWS IAM. Key concepts I learnt include IAM users, policies, user groups and account aliases. I also learnt how to use  a policy simulator, how to launch an instance, how to tag an instance and how to login as another user.
 
 ### Project reflection
 
-This project took me approximately 2 hours including demo time. The most challenging part was understanding the IAM policy since it was written in JSON and it contained multiple statements. It was most rewarding to that the set policies worked as set.
+This project took me approximately 2 hours including demo time. The most challenging part was understanding the IAM policy since it was written in JSON and it contained multiple statements. It was most rewarding when the set policies worked as set.
 
 ---
 
