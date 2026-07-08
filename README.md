@@ -48,7 +48,7 @@ Welcome to my cloud engineering learning journal. I'm documenting every project 
 
 ## 📌 How This Repo Is Organized
 
-Each folder is one project with its own README which includes screenshots:
+Each folder is a collection of related projects with their own README which includes screenshots:
 
 ```
 cloud-engineering-journey/
