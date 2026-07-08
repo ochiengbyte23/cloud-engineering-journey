@@ -36,7 +36,7 @@ Welcome to my cloud engineering learning journal. I'm documenting every project 
 | 22 | [APIs with Lambda + API Gateway](./22-APIs-with-Lambda+API-Gateway/) |AWS | ✅ Complete |
 | 23 | [Fetch Data with AWS Lambda](./23-Fetch-Data-with-AWS-Lambda/) |AWS | ✅ Complete |
 | 24 | [Build a Three-Tier Web App](./24-Build-a-Three-Tier-Web-App/) |AWS | ✅ Complete |
-|🔜 Upcoming |
+| 24 | [Launch a Kubernetes Cluster]|🔜 Upcoming |
 
 ---
 
@@ -53,10 +53,13 @@ Each folder is one project with its own README which includes screenshots:
 ```
 cloud-engineering-journey/
 ├── README.md                   
-├── 01-aws-account-setup/
-│   ├── README.md
-└── 02-next-project/
-    ├── README.md
+├── AWS Security
+│   ├──17-encrypt-data-with-AWS-KMS
+    ├──18-threat-detection-with-GuardDuty |
+    ├──19-secure-secrets-with-secrets-manager 
+    ├──20-build-a-security-monitoring-system
+└─ Cloud Beginner
+    ├──01-aws-account-setup
 ```
 
 ---
