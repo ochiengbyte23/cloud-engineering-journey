@@ -15,7 +15,7 @@
 
 ---
 
-## Introducing Today's Project!
+## Introducing Today's Project
 
 In this project, I will demonstrate how to build a scalable and serverless AWS Lambda function and use it to retrieve data from a Dynamo DB table. I'm doing this project  as the final part of my application architecture series which includes the presentation, logic and data tier.
 
@@ -27,7 +27,7 @@ Services I used were Lambda function, Dynamo DB and IAM role. Key concepts I lea
 
 This project took me approximately 1.5 hours including documentation. The most challenging part was writing the JSON permissions policies. It was most rewarding to test my policies and see that they worked as set.
 
-I chose to do this project today because it is the final part of my 3-tier application architecture series which includes presentation, logic and data. 
+I chose to do this project today because it is the final part of my 3-tier application architecture series which includes presentation, logic and data.
 
 ---
 
