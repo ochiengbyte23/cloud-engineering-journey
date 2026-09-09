@@ -36,7 +36,8 @@ Welcome to my cloud engineering learning journal. I'm documenting every project 
 | 22 | [APIs with Lambda + API Gateway](./22-APIs-with-Lambda+API-Gateway/) |AWS | ✅ Complete |
 | 23 | [Fetch Data with AWS Lambda](./23-Fetch-Data-with-AWS-Lambda/) |AWS | ✅ Complete |
 | 24 | [Build a Three-Tier Web App](./24-Build-a-Three-Tier-Web-App/) |AWS | ✅ Complete |
-| 24 | [Launch a Kubernetes Cluster]|🔜 Upcoming |
+| 25 | [Launch a Kubernetes Cluster](./25-Launch-a-Kubernetes-Cluster/)|AWS | ✅ Complete |
+| 26 | [Set Up Kubernetes Deployment](./26-Set-Up-Kubernetes-Deployment/)|AWS |🔜 Upcoming |
 
 ---
 
