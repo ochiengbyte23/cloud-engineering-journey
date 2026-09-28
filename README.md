@@ -24,14 +24,14 @@ Welcome to my cloud engineering learning journal. I'm documenting every project 
 | 10 | [VPC Monitoring with Flow Logs](./10-VPC-monitoring-with-flow-logs/) | AWS | ✅ Complete |
 | 11 | [Access S3 from a VPC](./11-access-S3-from-a-VPC/) | AWS | ✅ Complete |
 | 12 | [VPC Endpoints](./12-VPC-endpoints/) | AWS | ✅ Complete |
-| 13 | [Aurora Database with EC2](./13-aurora-database-with-EC2/) | AWS | ✅ Complete |
-| 14 | [Connect a Web App with Aurora](./14-connect-a-Web-app-with-aurora/) | AWS | ✅ Complete |
-| 15 | [Load Data into DynamoDB](./15-load-data-into-DynamoDB/) | AWS | ✅ Complete |
-| 16 | [Query Data with DynamoDB](./16-query-data-with-DynamoDB/) | AWS | ✅ Complete |
-| 17 | [Encrypt Data with AWS KMS](./AWS-Security/17-encrypt-data-with-AWS-KMS/) | AWS | ✅ Complete |
-| 18 | [Threat Detection with GuardDuty](./18-threat-detection-with-GuardDuty/) | AWS | ✅ Complete |
-| 19 | [Secure Secrets with Secrets Manager](./19-secure-secrets-with-secrets-manager/) | AWS | ✅ Complete |
-| 20 | [Build a Security Monitoring System](./20-build-a-security-monitoring-system/) | AWS | ✅ Complete |
+| 13 | [Aurora Database with EC2](./Databases/13-aurora-database-with-EC2/) | AWS | ✅ Complete |
+| 14 | [Connect a Web App with Aurora](./Databases/14-connect-a-Web-app-with-aurora/) | AWS | ✅ Complete |
+| 15 | [Load Data into DynamoDB](./Databases/15-load-data-into-DynamoDB/) | AWS | ✅ Complete |
+| 16 | [Query Data with DynamoDB](./Databases/16-query-data-with-DynamoDB/) | AWS | ✅ Complete |
+| 17 | [Encrypt Data with AWS KMS](./AWS%20Security/AWS-Security/17-encrypt-data-with-AWS-KMS/) | AWS | ✅ Complete |
+| 18 | [Threat Detection with GuardDuty](./AWS%20Security/18-threat-detection-with-GuardDuty/) | AWS | ✅ Complete |
+| 19 | [Secure Secrets with Secrets Manager](./AWS%20Security/19-secure-secrets-with-secrets-manager/) | AWS | ✅ Complete |
+| 20 | [Build a Security Monitoring System](./AWS%20Security/20-build-a-security-monitoring-system/) | AWS | ✅ Complete |
 | 21 | [Website Delivery with CloudFront](./Three-Tier%20Architecture/21-website-delivery-with-cloudFront/) | AWS | ✅ Complete |
 | 22 | [APIs with Lambda + API Gateway](./Three-Tier%20Architecture/22-APIs-with-Lambda+API-Gateway/) | AWS | ✅ Complete |
 | 23 | [Fetch Data with AWS Lambda](./Three-Tier%20Architecture/23-Fetch-Data-with-AWS-Lambda/) | AWS | ✅ Complete |
