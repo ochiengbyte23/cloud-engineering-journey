@@ -39,7 +39,7 @@ Welcome to my cloud engineering learning journal. I'm documenting every project 
 | 25 | [Launch a Kubernetes Cluster](./25-Launch-a-Kubernetes-Cluster/)| AWS | ✅ Complete |
 | 26 | [Set Up Kubernetes Deployment](./26-Set-Up-Kubernetes-Deployment/)| AWS | ✅ Complete |
 | 27 | [Create Kubernetes Manifests](./27-Create-Kubernetes-Manifests/)| AWS | ✅ Complete |
-| 28 | [Deploy Backend with Kubernetes](./28-Deploy-Backend-with-Kubernetes/)| AWS | ✅ Complete |
+| 28 | [Deploy Backend with Kubernetes](./Kubernetes/28-Deploy-Backend-with-Kubernetes/)| AWS | ✅ Complete |
 | 29 | [Set Up a Web App in the Cloud]|🔜 Upcoming |
 
 ---
