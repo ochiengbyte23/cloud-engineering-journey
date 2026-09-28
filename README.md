@@ -32,10 +32,10 @@ Welcome to my cloud engineering learning journal. I'm documenting every project 
 | 18 | [Threat Detection with GuardDuty](./18-threat-detection-with-GuardDuty/) | AWS | ✅ Complete |
 | 19 | [Secure Secrets with Secrets Manager](./19-secure-secrets-with-secrets-manager/) | AWS | ✅ Complete |
 | 20 | [Build a Security Monitoring System](./20-build-a-security-monitoring-system/) | AWS | ✅ Complete |
-| 21 | [Website Delivery with CloudFront](./Three-Tier-Architecture/21-website-delivery-with-cloudFront/) | AWS | ✅ Complete |
-| 22 | [APIs with Lambda + API Gateway](./22-APIs-with-Lambda+API-Gateway/) | AWS | ✅ Complete |
-| 23 | [Fetch Data with AWS Lambda](./23-Fetch-Data-with-AWS-Lambda/) | AWS | ✅ Complete |
-| 24 | [Build a Three-Tier Web App](./24-Build-a-Three-Tier-Web-App/) | AWS | ✅ Complete |
+| 21 | [Website Delivery with CloudFront](./Three-Tier%20Architecture/21-website-delivery-with-cloudFront/) | AWS | ✅ Complete |
+| 22 | [APIs with Lambda + API Gateway](./Three-Tier%20Architecture/22-APIs-with-Lambda+API-Gateway/) | AWS | ✅ Complete |
+| 23 | [Fetch Data with AWS Lambda](./Three-Tier%20Architecture/23-Fetch-Data-with-AWS-Lambda/) | AWS | ✅ Complete |
+| 24 | [Build a Three-Tier Web App](./Three-Tier%20Architecture/24-Build-a-Three-Tier-Web-App/) | AWS | ✅ Complete |
 | 25 | [Launch a Kubernetes Cluster](./Kubernetes/25-Launch-a-Kubernetes-Cluster/)| AWS | ✅ Complete |
 | 26 | [Set Up Kubernetes Deployment](./Kubernetes/26-Set-Up-Kubernetes-Deployment/)| AWS | ✅ Complete |
 | 27 | [Create Kubernetes Manifests](./Kubernetes/27-Create-Kubernetes-Manifests/)| AWS | ✅ Complete |
