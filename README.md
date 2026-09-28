@@ -30,16 +30,16 @@ Welcome to my cloud engineering learning journal. I'm documenting every project 
 | 16 | [Query Data with DynamoDB](./16-query-data-with-DynamoDB/) | AWS | ✅ Complete |
 | 17 | [Encrypt Data with AWS KMS](./17-encrypt-data-with-AWS-KMS/) | AWS | ✅ Complete |
 | 18 | [Threat Detection with GuardDuty](./18-threat-detection-with-GuardDuty/) | AWS | ✅ Complete |
-| 19 | [Secure Secrets with Secrets Manager](./19-secure-secrets-with-secrets-manager/) |AWS | ✅ Complete |
-| 20 | [Build a Security Monitoring System](./20-build-a-security-monitoring-system/) |AWS | ✅ Complete |
-| 21 | [Website Delivery with CloudFront](./21-website-delivery-with-cloudFront/) |AWS | ✅ Complete |
-| 22 | [APIs with Lambda + API Gateway](./22-APIs-with-Lambda+API-Gateway/) |AWS | ✅ Complete |
-| 23 | [Fetch Data with AWS Lambda](./23-Fetch-Data-with-AWS-Lambda/) |AWS | ✅ Complete |
-| 24 | [Build a Three-Tier Web App](./24-Build-a-Three-Tier-Web-App/) |AWS | ✅ Complete |
-| 25 | [Launch a Kubernetes Cluster](./25-Launch-a-Kubernetes-Cluster/)|AWS | ✅ Complete |
-| 26 | [Set Up Kubernetes Deployment](./26-Set-Up-Kubernetes-Deployment/)|AWS | ✅ Complete |
-| 27 | [Create Kubernetes Manifests](./27-Create-Kubernetes-Manifests)\ AWS | ✅ Complete |
-| 28 | [Deploy Backend with Kubernetes](./28-Deploy-Backend-with-Kubernetes)| ✅ Complete |
+| 19 | [Secure Secrets with Secrets Manager](./19-secure-secrets-with-secrets-manager/) | AWS | ✅ Complete |
+| 20 | [Build a Security Monitoring System](./20-build-a-security-monitoring-system/) | AWS | ✅ Complete |
+| 21 | [Website Delivery with CloudFront](./21-website-delivery-with-cloudFront/) | AWS | ✅ Complete |
+| 22 | [APIs with Lambda + API Gateway](./22-APIs-with-Lambda+API-Gateway/) | AWS | ✅ Complete |
+| 23 | [Fetch Data with AWS Lambda](./23-Fetch-Data-with-AWS-Lambda/) | AWS | ✅ Complete |
+| 24 | [Build a Three-Tier Web App](./24-Build-a-Three-Tier-Web-App/) | AWS | ✅ Complete |
+| 25 | [Launch a Kubernetes Cluster](./25-Launch-a-Kubernetes-Cluster/)| AWS | ✅ Complete |
+| 26 | [Set Up Kubernetes Deployment](./26-Set-Up-Kubernetes-Deployment/)| AWS | ✅ Complete |
+| 27 | [Create Kubernetes Manifests](./27-Create-Kubernetes-Manifests/)| AWS | ✅ Complete |
+| 28 | [Deploy Backend with Kubernetes](./28-Deploy-Backend-with-Kubernetes/)| AWS | ✅ Complete |
 | 29 | [Set Up a Web App in the Cloud]|🔜 Upcoming |
 
 ---
