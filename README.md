@@ -30,7 +30,7 @@ Welcome to my cloud engineering learning journal. I'm documenting every project 
 | 16 | [Query Data with DynamoDB](./Databases/16-query-data-with-DynamoDB/) | AWS | ✅ Complete |
 | 17 | [Encrypt Data with AWS KMS](./AWS%20Security/17-encrypt-data-with-AWS-KMS/) | AWS | ✅ Complete |
 | 18 | [Threat Detection with GuardDuty](./AWS%20Security/18-threat-detection-with-GuardDuty/) | AWS | ✅ Complete |
-| 19 | [Secure Secrets with Secrets Manager](./AWS%20Security/19-secure-secrets-with-secrets-manager/) | AWS | ✅ Complete |
+| 19 | [Secure Secrets with Secrets Manager](./AWS%20Security/19-secure-secrets-with-secrets-manager/) | AWS | ✅ Complete 
 | 20 | [Build a Security Monitoring System](./AWS%20Security/20-build-a-security-monitoring-system/) | AWS | ✅ Complete |
 | 21 | [Website Delivery with CloudFront](./Three-Tier%20Architecture/21-website-delivery-with-cloudFront/) | AWS | ✅ Complete |
 | 22 | [APIs with Lambda + API Gateway](./Three-Tier%20Architecture/22-APIs-with-Lambda+API-Gateway/) | AWS | ✅ Complete |
@@ -40,7 +40,8 @@ Welcome to my cloud engineering learning journal. I'm documenting every project 
 | 26 | [Set Up Kubernetes Deployment](./Kubernetes/26-Set-Up-Kubernetes-Deployment/)| AWS | ✅ Complete |
 | 27 | [Create Kubernetes Manifests](./Kubernetes/27-Create-Kubernetes-Manifests/)| AWS | ✅ Complete |
 | 28 | [Deploy Backend with Kubernetes](./Kubernetes/28-Deploy-Backend-with-Kubernetes/) | AWS | ✅ Complete |
-| 29 | [Set Up a Web App in the Cloud]|🔜 Upcoming |
+| 29 | [Set Up a Web App in the Cloud](./DevOps/29-Set-Up-a-Web-App-in-the-Cloud/)| AWS | ✅ Complete |
+🔜 Upcoming |
 
 ---
 
