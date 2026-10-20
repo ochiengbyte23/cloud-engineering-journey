@@ -43,6 +43,7 @@ Welcome to my cloud engineering learning journal. I'm documenting every project 
 | 29 | [Set Up a Web App in the Cloud](./DevOps/29-Set-Up-a-Web-App-in-the-Cloud/) | AWS | ✅ Complete |
 | 30 | [Connect a GitHub Repo with AWS](./DevOps/30-Connect-a-GitHub-Repo-with-AWS/) | AWS | ✅ Complete 
 | 31 | [Secure Packages with CodeArtifact](./DevOps/31-Secure-Packages-with-CodeArtifact/) | AWS | ✅ Complete 
+| 32 | [Continuous Integration with CodeBuild](./DevOps/32-Continuous-Integration-with-CodeBuild/) | AWS | ✅ Complete 
 🔜 Upcoming |
 
 ---
