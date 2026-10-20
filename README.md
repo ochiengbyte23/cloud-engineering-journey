@@ -45,8 +45,7 @@ Welcome to my cloud engineering learning journal. I'm documenting every project 
 | 31 | [Secure Packages with CodeArtifact](./DevOps/31-Secure-Packages-with-CodeArtifact/) | AWS | ✅ Complete |
 | 32 | [Continuous Integration with CodeBuild](./DevOps/32-Continuous-Integration-with-CodeBuild/) | AWS | ✅ Complete |
 | 33 | [Deploy a Web App with CodeDeploy](./DevOps/33-Deploy-a-Web-App-with-CodeDeploy/) | AWS | ✅ Complete |
-| 34 | [Build a CI/CD Pipeline with AWS](./DevOps/34-Build-a-CI/CD-Pipeline-with-AWS/) | AWS | ✅ Complete |
-
+| 34 | [Build a CI/CD Pipeline with AWS](./DevOps/34-Build-a-CI-CD-Pipeline-with-AWS/) | AWS | ✅ Complete |
 🔜 Upcoming |
 
 ---
