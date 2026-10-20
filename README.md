@@ -41,9 +41,12 @@ Welcome to my cloud engineering learning journal. I'm documenting every project 
 | 27 | [Create Kubernetes Manifests](./Kubernetes/27-Create-Kubernetes-Manifests/)| AWS | ✅ Complete |
 | 28 | [Deploy Backend with Kubernetes](./Kubernetes/28-Deploy-Backend-with-Kubernetes/) | AWS | ✅ Complete |
 | 29 | [Set Up a Web App in the Cloud](./DevOps/29-Set-Up-a-Web-App-in-the-Cloud/) | AWS | ✅ Complete |
-| 30 | [Connect a GitHub Repo with AWS](./DevOps/30-Connect-a-GitHub-Repo-with-AWS/) | AWS | ✅ Complete 
-| 31 | [Secure Packages with CodeArtifact](./DevOps/31-Secure-Packages-with-CodeArtifact/) | AWS | ✅ Complete 
-| 32 | [Continuous Integration with CodeBuild](./DevOps/32-Continuous-Integration-with-CodeBuild/) | AWS | ✅ Complete 
+| 30 | [Connect a GitHub Repo with AWS](./DevOps/30-Connect-a-GitHub-Repo-with-AWS/) | AWS | ✅ Complete |
+| 31 | [Secure Packages with CodeArtifact](./DevOps/31-Secure-Packages-with-CodeArtifact/) | AWS | ✅ Complete |
+| 32 | [Continuous Integration with CodeBuild](./DevOps/32-Continuous-Integration-with-CodeBuild/) | AWS | ✅ Complete |
+| 33 | [Deploy a Web App with CodeDeploy](./DevOps/33-Deploy-a-Web-App-with-CodeDeploy/) | AWS | ✅ Complete |
+| 34 | [](./) | AWS | ✅ Complete 
+
 🔜 Upcoming |
 
 ---
