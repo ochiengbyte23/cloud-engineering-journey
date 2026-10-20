@@ -41,6 +41,7 @@ Welcome to my cloud engineering learning journal. I'm documenting every project 
 | 27 | [Create Kubernetes Manifests](./Kubernetes/27-Create-Kubernetes-Manifests/)| AWS | ✅ Complete |
 | 28 | [Deploy Backend with Kubernetes](./Kubernetes/28-Deploy-Backend-with-Kubernetes/) | AWS | ✅ Complete |
 | 29 | [Set Up a Web App in the Cloud](./DevOps/29-Set-Up-a-Web-App-in-the-Cloud/)| AWS | ✅ Complete |
+| 30 | [Connect a GitHub Repo with AWS](./DevOps/30-Connect-a-GitHub-Repo-with-AWS/)| AWS | ✅ Complete 
 🔜 Upcoming |
 
 ---
